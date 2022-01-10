@@ -1,0 +1,8 @@
+div.box {
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+}
+.mobile {
+    width: 100%;
+}
